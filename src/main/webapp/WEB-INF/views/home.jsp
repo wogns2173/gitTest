@@ -16,8 +16,8 @@
  	
  	<h3>이미 커밋한 내용을 취소하고 싶은 경우</h3>
  	<p>브랜치 초기화 - 특정 지점으로 완전히 초기화 한다.</p>
- 	<p>reverse commit - 특정 버전이 실행하기 전 상태로 되돌아가 새로운 커밋을 생성</p>
- 	<p>불필요한 내용</p>
+ 	<p>reverse commit</p>
+
 </body>
 <script></script>
 </html>
