@@ -18,15 +18,19 @@
  	<p>브랜치 초기화 - 특정 지점으로 완전히 초기화 한다.</p>
  	<p>reverse commit</p>
 	<button>click</button>
+	
+	<p>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</p>
 </body>
-<script></script>
-	$("p").click(function(){
-		$(this).css('color','red');
-	});
-	
-	var arr = [];
-	
-	$('button').click(function(){
-		arr.push("data");
-	});
+<script>
+$("p").click(function(){
+	$(this).css('color','red');
+});
+
+var arr = [];
+
+$('button').click(function(){
+	arr.push("data");
+});
+</script>
+
 </html>
