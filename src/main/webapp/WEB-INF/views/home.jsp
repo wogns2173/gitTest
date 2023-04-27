@@ -20,4 +20,8 @@
 
 </body>
 <script></script>
+	$("p").click(function(){
+		$(this).css('color','red');
+	});
+
 </html>
